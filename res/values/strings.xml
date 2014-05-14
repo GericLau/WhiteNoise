@@ -1,0 +1,7 @@
+<resources>
+
+    <string name="app_name">WhiteNoice</string>
+    <string name="title_type_detail">Type Detail</string>
+    <string name="title_type_list">Types</string>
+
+</resources>
